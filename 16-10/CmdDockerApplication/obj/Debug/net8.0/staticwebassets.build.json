@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "W5EXUHy2HXmzEWdVolJBJeKcvpj+QaFpO06BIKDLXCw=",
+  "Source": "CmdDockerApplication",
+  "BasePath": "_content/CmdDockerApplication",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

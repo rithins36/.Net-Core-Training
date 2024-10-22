@@ -1,0 +1,167 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Documents\\Projects\\15-10\\ECommerceApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{46B8298F-3ABD-43E4-8F29-6412EB5732D1}|ECommerceApplication\\ECommerceApplication.csproj|c:\\users\\administrator\\documents\\projects\\15-10\\ecommerceapplication\\ecommerceapplication\\ecommerceapplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{46B8298F-3ABD-43E4-8F29-6412EB5732D1}|ECommerceApplication\\ECommerceApplication.csproj|solutionrelative:ecommerceapplication\\ecommerceapplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46B8298F-3ABD-43E4-8F29-6412EB5732D1}|ECommerceApplication\\ECommerceApplication.csproj|c:\\users\\administrator\\documents\\projects\\15-10\\ecommerceapplication\\ecommerceapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46B8298F-3ABD-43E4-8F29-6412EB5732D1}|ECommerceApplication\\ECommerceApplication.csproj|solutionrelative:ecommerceapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46B8298F-3ABD-43E4-8F29-6412EB5732D1}|ECommerceApplication\\ECommerceApplication.csproj|c:\\users\\administrator\\documents\\projects\\15-10\\ecommerceapplication\\ecommerceapplication\\data\\sqlconnectionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46B8298F-3ABD-43E4-8F29-6412EB5732D1}|ECommerceApplication\\ECommerceApplication.csproj|solutionrelative:ecommerceapplication\\data\\sqlconnectionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46B8298F-3ABD-43E4-8F29-6412EB5732D1}|ECommerceApplication\\ECommerceApplication.csproj|c:\\users\\administrator\\documents\\projects\\15-10\\ecommerceapplication\\ecommerceapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{46B8298F-3ABD-43E4-8F29-6412EB5732D1}|ECommerceApplication\\ECommerceApplication.csproj|solutionrelative:ecommerceapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46B8298F-3ABD-43E4-8F29-6412EB5732D1}|ECommerceApplication\\ECommerceApplication.csproj|c:\\users\\administrator\\documents\\projects\\15-10\\ecommerceapplication\\ecommerceapplication\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46B8298F-3ABD-43E4-8F29-6412EB5732D1}|ECommerceApplication\\ECommerceApplication.csproj|solutionrelative:ecommerceapplication\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46B8298F-3ABD-43E4-8F29-6412EB5732D1}|ECommerceApplication\\ECommerceApplication.csproj|c:\\users\\administrator\\documents\\projects\\15-10\\ecommerceapplication\\ecommerceapplication\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46B8298F-3ABD-43E4-8F29-6412EB5732D1}|ECommerceApplication\\ECommerceApplication.csproj|solutionrelative:ecommerceapplication\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46B8298F-3ABD-43E4-8F29-6412EB5732D1}|ECommerceApplication\\ECommerceApplication.csproj|c:\\users\\administrator\\documents\\projects\\15-10\\ecommerceapplication\\ecommerceapplication\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46B8298F-3ABD-43E4-8F29-6412EB5732D1}|ECommerceApplication\\ECommerceApplication.csproj|solutionrelative:ecommerceapplication\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46B8298F-3ABD-43E4-8F29-6412EB5732D1}|ECommerceApplication\\ECommerceApplication.csproj|c:\\users\\administrator\\documents\\projects\\15-10\\ecommerceapplication\\ecommerceapplication\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46B8298F-3ABD-43E4-8F29-6412EB5732D1}|ECommerceApplication\\ECommerceApplication.csproj|solutionrelative:ecommerceapplication\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46B8298F-3ABD-43E4-8F29-6412EB5732D1}|ECommerceApplication\\ECommerceApplication.csproj|c:\\users\\administrator\\documents\\projects\\15-10\\ecommerceapplication\\ecommerceapplication\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46B8298F-3ABD-43E4-8F29-6412EB5732D1}|ECommerceApplication\\ECommerceApplication.csproj|solutionrelative:ecommerceapplication\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ECommerceApplication",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\Projects\\15-10\\ECommerceApplication\\ECommerceApplication\\ECommerceApplication.csproj",
+              "RelativeDocumentMoniker": "ECommerceApplication\\ECommerceApplication.csproj",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\Projects\\15-10\\ECommerceApplication\\ECommerceApplication\\ECommerceApplication.csproj",
+              "RelativeToolTip": "ECommerceApplication\\ECommerceApplication.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-16T11:56:55.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\Projects\\15-10\\ECommerceApplication\\ECommerceApplication\\Program.cs",
+              "RelativeDocumentMoniker": "ECommerceApplication\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\Projects\\15-10\\ECommerceApplication\\ECommerceApplication\\Program.cs",
+              "RelativeToolTip": "ECommerceApplication\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T11:27:12.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SqlConnectionFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\Projects\\15-10\\ECommerceApplication\\ECommerceApplication\\Data\\SqlConnectionFactory.cs",
+              "RelativeDocumentMoniker": "ECommerceApplication\\Data\\SqlConnectionFactory.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\Projects\\15-10\\ECommerceApplication\\ECommerceApplication\\Data\\SqlConnectionFactory.cs",
+              "RelativeToolTip": "ECommerceApplication\\Data\\SqlConnectionFactory.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T11:26:25.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\Projects\\15-10\\ECommerceApplication\\ECommerceApplication\\appsettings.json",
+              "RelativeDocumentMoniker": "ECommerceApplication\\appsettings.json",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\Projects\\15-10\\ECommerceApplication\\ECommerceApplication\\appsettings.json",
+              "RelativeToolTip": "ECommerceApplication\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-15T10:14:15.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\Projects\\15-10\\ECommerceApplication\\ECommerceApplication\\Models\\Payment.cs",
+              "RelativeDocumentMoniker": "ECommerceApplication\\Models\\Payment.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\Projects\\15-10\\ECommerceApplication\\ECommerceApplication\\Models\\Payment.cs",
+              "RelativeToolTip": "ECommerceApplication\\Models\\Payment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T10:13:57.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\Projects\\15-10\\ECommerceApplication\\ECommerceApplication\\Models\\OrderItem.cs",
+              "RelativeDocumentMoniker": "ECommerceApplication\\Models\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\Projects\\15-10\\ECommerceApplication\\ECommerceApplication\\Models\\OrderItem.cs",
+              "RelativeToolTip": "ECommerceApplication\\Models\\OrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T10:13:36.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\Projects\\15-10\\ECommerceApplication\\ECommerceApplication\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "ECommerceApplication\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\Projects\\15-10\\ECommerceApplication\\ECommerceApplication\\Models\\Order.cs",
+              "RelativeToolTip": "ECommerceApplication\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T10:13:05.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\Projects\\15-10\\ECommerceApplication\\ECommerceApplication\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ECommerceApplication\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\Projects\\15-10\\ECommerceApplication\\ECommerceApplication\\Models\\Product.cs",
+              "RelativeToolTip": "ECommerceApplication\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T10:12:48.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\Projects\\15-10\\ECommerceApplication\\ECommerceApplication\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "ECommerceApplication\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\Projects\\15-10\\ECommerceApplication\\ECommerceApplication\\Models\\Customer.cs",
+              "RelativeToolTip": "ECommerceApplication\\Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T10:12:23.174Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

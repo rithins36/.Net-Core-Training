@@ -1,0 +1,6 @@
+@CmdDockerApplication_HostAddress = http://localhost:5152
+
+GET {{CmdDockerApplication_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

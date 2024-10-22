@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Documents\\Projects\\16-10\\DockerApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{45162B70-AAB9-4612-AC50-B1963C95F50D}|DockerApplication\\DockerApplication.csproj|c:\\users\\administrator\\documents\\projects\\16-10\\dockerapplication\\dockerapplication\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45162B70-AAB9-4612-AC50-B1963C95F50D}|DockerApplication\\DockerApplication.csproj|solutionrelative:dockerapplication\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\Projects\\16-10\\DockerApplication\\DockerApplication\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "DockerApplication\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\Projects\\16-10\\DockerApplication\\DockerApplication\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "DockerApplication\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T12:05:28.901Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
