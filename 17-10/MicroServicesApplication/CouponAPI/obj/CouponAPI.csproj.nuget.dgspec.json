@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Administrator\\Documents\\Projects\\17-10\\MicroServicesApplication\\CouponAPI\\CouponAPI.csproj": {}
+    "C:\\Users\\Administrator\\Documents\\.Net-Core-Training\\17-10\\MicroServicesApplication\\CouponAPI\\CouponAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Administrator\\Documents\\Projects\\17-10\\MicroServicesApplication\\CouponAPI\\CouponAPI.csproj": {
+    "C:\\Users\\Administrator\\Documents\\.Net-Core-Training\\17-10\\MicroServicesApplication\\CouponAPI\\CouponAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrator\\Documents\\Projects\\17-10\\MicroServicesApplication\\CouponAPI\\CouponAPI.csproj",
+        "projectUniqueName": "C:\\Users\\Administrator\\Documents\\.Net-Core-Training\\17-10\\MicroServicesApplication\\CouponAPI\\CouponAPI.csproj",
         "projectName": "CouponAPI",
-        "projectPath": "C:\\Users\\Administrator\\Documents\\Projects\\17-10\\MicroServicesApplication\\CouponAPI\\CouponAPI.csproj",
+        "projectPath": "C:\\Users\\Administrator\\Documents\\.Net-Core-Training\\17-10\\MicroServicesApplication\\CouponAPI\\CouponAPI.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrator\\Documents\\Projects\\17-10\\MicroServicesApplication\\CouponAPI\\obj\\",
+        "outputPath": "C:\\Users\\Administrator\\Documents\\.Net-Core-Training\\17-10\\MicroServicesApplication\\CouponAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Administrator\\Documents\\Projects\\17-10\\MicroServicesApplication\\AuthAPI\\AuthAPI.csproj": {}
+    "C:\\Users\\Administrator\\Documents\\.Net-Core-Training\\17-10\\MicroServicesApplication\\AuthAPI\\AuthAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Administrator\\Documents\\Projects\\17-10\\MicroServicesApplication\\AuthAPI\\AuthAPI.csproj": {
+    "C:\\Users\\Administrator\\Documents\\.Net-Core-Training\\17-10\\MicroServicesApplication\\AuthAPI\\AuthAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrator\\Documents\\Projects\\17-10\\MicroServicesApplication\\AuthAPI\\AuthAPI.csproj",
+        "projectUniqueName": "C:\\Users\\Administrator\\Documents\\.Net-Core-Training\\17-10\\MicroServicesApplication\\AuthAPI\\AuthAPI.csproj",
         "projectName": "AuthAPI",
-        "projectPath": "C:\\Users\\Administrator\\Documents\\Projects\\17-10\\MicroServicesApplication\\AuthAPI\\AuthAPI.csproj",
+        "projectPath": "C:\\Users\\Administrator\\Documents\\.Net-Core-Training\\17-10\\MicroServicesApplication\\AuthAPI\\AuthAPI.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrator\\Documents\\Projects\\17-10\\MicroServicesApplication\\AuthAPI\\obj\\",
+        "outputPath": "C:\\Users\\Administrator\\Documents\\.Net-Core-Training\\17-10\\MicroServicesApplication\\AuthAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

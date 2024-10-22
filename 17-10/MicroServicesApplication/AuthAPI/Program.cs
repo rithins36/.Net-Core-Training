@@ -1,5 +1,7 @@
 
 using AuthAPI.Models;
+using AuthAPI.Services;
+using AuthAPI.Services.IService;
 using CouponAPI.Data;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
@@ -19,8 +21,9 @@ namespace AuthAPI
             });
             builder.Services.Configure<JwtOptions>(builder.Configuration.GetSection("Apisettings.JwtOptions"));
 
-            builder.Services.AddIdentity<IdentityUser, IdentityRole>().AddEntityFrameworkStores<AppDbContext>()
+            builder.Services.AddIdentity<ApplicationUser, IdentityRole>().AddEntityFrameworkStores<AppDbContext>()
                 .AddDefaultTokenProviders();
+            builder.Services.AddTransient<IAuthService, AuthService>();
 
             builder.Services.AddControllers();
 
