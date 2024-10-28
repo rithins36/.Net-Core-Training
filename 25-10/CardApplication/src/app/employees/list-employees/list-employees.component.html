@@ -1,0 +1,20 @@
+
+<div class="container m-6 " >
+    <div class="row my-5 ">
+            @for(employee of employees; track $index) {
+                <div class="card col mx-2" >
+                    <img src= "{{employee.photoPath}}" class="card-img-top mx-auto my-3" alt="..." style="height: 40%; width: 60%;">
+                    <div class="card-body">
+                      <h5 class="card-title text-center">{{employee.name}}</h5>
+                      <p class="card-text"><b>ID</b> : {{employee.id}}</p>
+                      <p class="card-text"><b>Gender</b> : {{employee.gender}}</p>
+                      <p class="card-text"><b>Email</b> : {{employee.email}}</p>
+                      <p class="card-text"><b>Phone Number</b> : {{employee.phoneNumber}}</p>
+                      <p class="card-text"><b>DOB</b> : {{employee.dateOfBirth}}</p>
+                      <p class="card-text"><b>Department</b> : {{employee.department}}</p>
+                    </div>
+                </div>
+            }
+    </div>
+</div>
+
