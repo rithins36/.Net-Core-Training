@@ -1,0 +1,33 @@
+<h2>Student List</h2>
+<div class="container">
+    <div class="row">
+        <div class="col-12">
+            <table class="table table-borderd">
+                <thead>
+                    <tr>
+                        <th>Id</th>
+                        <th>Name</th>
+                        <th>Grade</th>
+                        <th>RollNo</th>
+                        <th>Active</th>
+                        <th>CreatedDate</th>
+                        <th>modifiedDate</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @for (item of studentList; track $index) { 
+                        <tr>
+                            <td>{{ item.studentId }}</td>
+                            <td>{{ item.studentName }}</td>
+                            <td>{{ item.studentGrade }}</td>
+                            <td>{{ item.studentRollNo }}</td>
+                            <td>{{ item.isActive }}</td>
+                            <td>{{ item.createdDate }}</td>
+                            <td>{{ item.modifiedDate }}</td>
+                        </tr>
+                    } 
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>

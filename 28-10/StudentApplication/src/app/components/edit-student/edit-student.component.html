@@ -1,0 +1,108 @@
+<div class="container">
+    <div class="row ">
+        <h2>Update Students</h2>
+        <div class="list col">
+            <table class="table table-borderd">
+                <thead>
+                    <tr>
+                        <th>Id</th>
+                        <th>Name</th>
+                        <th>Action</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @for (item of studentList; track $index) { 
+                        <tr>
+                            <td>{{ item.studentId }}</td>
+                            <td>{{ item.studentName }}</td>
+                            <button type="button" class="btn btn-primary" onclick="handleEdit()">Edit</button>           
+                        </tr>
+                    } 
+                </tbody>
+            </table>
+        </div>
+        <div class="update-form col">
+            <form id="studentForm">
+                <!-- <div class="form-group">
+                <label for="studentId">Student ID:</label>
+                <input type="number" class="form-control" id="studentId" name="studentId"
+                Required />
+                </div> -->
+                <div class="form-group">
+                    <label for="studentName">Student Name:</label>
+                    <input
+                    type="text"
+                    [(ngModel)]="studentObj.studentName"
+                    class="form-control"
+                    id="studentName"
+                    name="studentName"
+                    required
+                    />
+                </div>
+                <div class="form-group">
+                    <label for="studentGrade">Student Grade:</label>
+                    <input
+                    type="text"
+                    [(ngModel)]="studentObj.studentGrade"
+                    class="form-control"
+                    id="studentGrade"
+                    name="studentGrade"
+                    required
+                    />
+                </div>
+                <div class="form-group">
+                    <label for="studentRollNo">Student Roll No:</label>
+                    <input
+                    type="text"
+                    [(ngModel)]="studentObj.studentRollNo"
+                    class="form-control"
+                    id="studentRollNo"
+                    name="studentRollNo"
+                    value={studentObj.studentRollNo}
+                    required
+                    />
+                </div>
+                <div class="form-group form-check">
+                <input
+                type="checkbox"
+                [(ngModel)]="studentObj.isActive"
+                class="form-check-input"
+                id="isActive"
+                name="isActive"
+                checked
+                />
+                <label class="form-check-label" for="isActive">Is Active</label>
+                </div>
+                <div class="form-group">
+                <label for="createdDate">Created Date:</label>
+                <input
+                type="date"
+                [(ngModel)]="studentObj.createdDate"
+                class="form-control"
+                id="createdDate"
+                name="createdDate"
+                required
+                />
+                </div>
+                <div class="form-group">
+                <label for="modifiedDate">Modified Date:</label>
+                <input
+                type="date"
+                [(ngModel)]="studentObj.modifiedDate"
+                class="form-control"
+                id="modifiedDate"
+                name="modifiedDate"
+                />
+                </div>
+                <!-- <button
+                type="submit"
+                class="btn btn-primary btn-block"
+                (click)="onSubmit()"
+                >
+                Submit 
+                </button> -->
+         </form>
+        
+        </div>
+    </div>
+</div>
