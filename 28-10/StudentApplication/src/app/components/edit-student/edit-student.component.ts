@@ -34,5 +34,7 @@ export class EditStudentComponent {
     "modifiedDate": ""
   } 
 
-  
+  handleEdit(){
+    
+  }
 }

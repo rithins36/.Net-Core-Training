@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Administrator\\Documents\\Projects\\14-10\\OurHeroApplication2\\OurHeroApplication2\\OurHeroApplication2.csproj": {}
+    "C:\\Users\\Administrator\\Documents\\.Net-Core-Training\\14-10\\OurHeroApplication2\\OurHeroApplication2\\OurHeroApplication2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Administrator\\Documents\\Projects\\14-10\\OurHeroApplication2\\OurHeroApplication2\\OurHeroApplication2.csproj": {
+    "C:\\Users\\Administrator\\Documents\\.Net-Core-Training\\14-10\\OurHeroApplication2\\OurHeroApplication2\\OurHeroApplication2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrator\\Documents\\Projects\\14-10\\OurHeroApplication2\\OurHeroApplication2\\OurHeroApplication2.csproj",
+        "projectUniqueName": "C:\\Users\\Administrator\\Documents\\.Net-Core-Training\\14-10\\OurHeroApplication2\\OurHeroApplication2\\OurHeroApplication2.csproj",
         "projectName": "OurHeroApplication2",
-        "projectPath": "C:\\Users\\Administrator\\Documents\\Projects\\14-10\\OurHeroApplication2\\OurHeroApplication2\\OurHeroApplication2.csproj",
+        "projectPath": "C:\\Users\\Administrator\\Documents\\.Net-Core-Training\\14-10\\OurHeroApplication2\\OurHeroApplication2\\OurHeroApplication2.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrator\\Documents\\Projects\\14-10\\OurHeroApplication2\\OurHeroApplication2\\obj\\",
+        "outputPath": "C:\\Users\\Administrator\\Documents\\.Net-Core-Training\\14-10\\OurHeroApplication2\\OurHeroApplication2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
