@@ -38,8 +38,7 @@
               "RelativeToolTip": "ExerciseAPI\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-01T04:22:17.589Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-01T04:22:17.589Z"
             },
             {
               "$type": "Document",
@@ -47,9 +46,9 @@
               "Title": "ValuesController.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\.Net-Core-Training\\1-11\\ExerciseAPI\\ExerciseAPI\\Controllers\\ValuesController.cs",
               "RelativeDocumentMoniker": "ExerciseAPI\\Controllers\\ValuesController.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Documents\\.Net-Core-Training\\1-11\\ExerciseAPI\\ExerciseAPI\\Controllers\\ValuesController.cs*",
-              "RelativeToolTip": "ExerciseAPI\\Controllers\\ValuesController.cs*",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\.Net-Core-Training\\1-11\\ExerciseAPI\\ExerciseAPI\\Controllers\\ValuesController.cs",
+              "RelativeToolTip": "ExerciseAPI\\Controllers\\ValuesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-01T04:20:36.418Z",
               "EditorCaption": ""
@@ -64,8 +63,7 @@
               "RelativeToolTip": "ExerciseAPI\\Controllers\\WeatherForecastController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-01T04:19:17.556Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-01T04:19:17.556Z"
             },
             {
               "$type": "Document",
@@ -77,8 +75,7 @@
               "RelativeToolTip": "ExerciseAPI\\Models\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-01T04:18:34.221Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-01T04:18:34.221Z"
             }
           ]
         }

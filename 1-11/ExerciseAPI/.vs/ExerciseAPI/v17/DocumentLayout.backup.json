@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Administrator\\Documents\\.Net-Core-Training\\1-11\\ExerciseAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9DE98FDE-FF83-427B-AB26-9853E7C54D33}|ExerciseAPI\\ExerciseAPI.csproj|c:\\users\\administrator\\documents\\.net-core-training\\1-11\\exerciseapi\\exerciseapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9DE98FDE-FF83-427B-AB26-9853E7C54D33}|ExerciseAPI\\ExerciseAPI.csproj|solutionrelative:exerciseapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9DE98FDE-FF83-427B-AB26-9853E7C54D33}|ExerciseAPI\\ExerciseAPI.csproj|c:\\users\\administrator\\documents\\.net-core-training\\1-11\\exerciseapi\\exerciseapi\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9DE98FDE-FF83-427B-AB26-9853E7C54D33}|ExerciseAPI\\ExerciseAPI.csproj|solutionrelative:exerciseapi\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9DE98FDE-FF83-427B-AB26-9853E7C54D33}|ExerciseAPI\\ExerciseAPI.csproj|c:\\users\\administrator\\documents\\.net-core-training\\1-11\\exerciseapi\\exerciseapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9DE98FDE-FF83-427B-AB26-9853E7C54D33}|ExerciseAPI\\ExerciseAPI.csproj|solutionrelative:exerciseapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9DE98FDE-FF83-427B-AB26-9853E7C54D33}|ExerciseAPI\\ExerciseAPI.csproj|c:\\users\\administrator\\documents\\.net-core-training\\1-11\\exerciseapi\\exerciseapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9DE98FDE-FF83-427B-AB26-9853E7C54D33}|ExerciseAPI\\ExerciseAPI.csproj|solutionrelative:exerciseapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DE98FDE-FF83-427B-AB26-9853E7C54D33}|ExerciseAPI\\ExerciseAPI.csproj|c:\\users\\administrator\\documents\\.net-core-training\\1-11\\exerciseapi\\exerciseapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DE98FDE-FF83-427B-AB26-9853E7C54D33}|ExerciseAPI\\ExerciseAPI.csproj|solutionrelative:exerciseapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DE98FDE-FF83-427B-AB26-9853E7C54D33}|ExerciseAPI\\ExerciseAPI.csproj|c:\\users\\administrator\\documents\\.net-core-training\\1-11\\exerciseapi\\exerciseapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DE98FDE-FF83-427B-AB26-9853E7C54D33}|ExerciseAPI\\ExerciseAPI.csproj|solutionrelative:exerciseapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,11 +26,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\.Net-Core-Training\\1-11\\ExerciseAPI\\ExerciseAPI\\Program.cs",
               "RelativeDocumentMoniker": "ExerciseAPI\\Program.cs",
@@ -38,25 +38,24 @@
               "RelativeToolTip": "ExerciseAPI\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-01T04:22:17.589Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-01T04:22:17.589Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "ValuesController.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\.Net-Core-Training\\1-11\\ExerciseAPI\\ExerciseAPI\\Controllers\\ValuesController.cs",
               "RelativeDocumentMoniker": "ExerciseAPI\\Controllers\\ValuesController.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Documents\\.Net-Core-Training\\1-11\\ExerciseAPI\\ExerciseAPI\\Controllers\\ValuesController.cs",
-              "RelativeToolTip": "ExerciseAPI\\Controllers\\ValuesController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\.Net-Core-Training\\1-11\\ExerciseAPI\\ExerciseAPI\\Controllers\\ValuesController.cs*",
+              "RelativeToolTip": "ExerciseAPI\\Controllers\\ValuesController.cs*",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowCwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-01T04:20:36.418Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "WeatherForecastController.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\.Net-Core-Training\\1-11\\ExerciseAPI\\ExerciseAPI\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "ExerciseAPI\\Controllers\\WeatherForecastController.cs",
@@ -64,12 +63,11 @@
               "RelativeToolTip": "ExerciseAPI\\Controllers\\WeatherForecastController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-01T04:19:17.556Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-01T04:19:17.556Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\.Net-Core-Training\\1-11\\ExerciseAPI\\ExerciseAPI\\Models\\User.cs",
               "RelativeDocumentMoniker": "ExerciseAPI\\Models\\User.cs",

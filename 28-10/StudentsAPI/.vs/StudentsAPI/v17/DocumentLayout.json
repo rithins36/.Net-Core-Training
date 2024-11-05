@@ -5,6 +5,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{A5AD0579-215A-4014-AB52-2179FDB2ECBA}|StudentsAPI\\StudentsAPI.csproj|c:\\users\\administrator\\documents\\.net-core-training\\28-10\\studentsapi\\studentsapi\\controllers\\tblstudentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A5AD0579-215A-4014-AB52-2179FDB2ECBA}|StudentsAPI\\StudentsAPI.csproj|solutionrelative:studentsapi\\controllers\\tblstudentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5AD0579-215A-4014-AB52-2179FDB2ECBA}|StudentsAPI\\StudentsAPI.csproj|c:\\users\\administrator\\documents\\.net-core-training\\28-10\\studentsapi\\studentsapi\\models\\tblstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5AD0579-215A-4014-AB52-2179FDB2ECBA}|StudentsAPI\\StudentsAPI.csproj|solutionrelative:studentsapi\\models\\tblstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5AD0579-215A-4014-AB52-2179FDB2ECBA}|StudentsAPI\\StudentsAPI.csproj|c:\\users\\administrator\\documents\\.net-core-training\\28-10\\studentsapi\\studentsapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5AD0579-215A-4014-AB52-2179FDB2ECBA}|StudentsAPI\\StudentsAPI.csproj|solutionrelative:studentsapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +22,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\.Net-Core-Training\\28-10\\StudentsAPI\\StudentsAPI\\Program.cs",
+              "RelativeDocumentMoniker": "StudentsAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\.Net-Core-Training\\28-10\\StudentsAPI\\StudentsAPI\\Program.cs",
+              "RelativeToolTip": "StudentsAPI\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T04:32:52.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TblStudent.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\.Net-Core-Training\\28-10\\StudentsAPI\\StudentsAPI\\Models\\TblStudent.cs",
+              "RelativeDocumentMoniker": "StudentsAPI\\Models\\TblStudent.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\.Net-Core-Training\\28-10\\StudentsAPI\\StudentsAPI\\Models\\TblStudent.cs",
+              "RelativeToolTip": "StudentsAPI\\Models\\TblStudent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T03:48:56.74Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +58,7 @@
               "RelativeDocumentMoniker": "StudentsAPI\\Controllers\\TblStudentsController.cs",
               "ToolTip": "C:\\Users\\Administrator\\Documents\\.Net-Core-Training\\28-10\\StudentsAPI\\StudentsAPI\\Controllers\\TblStudentsController.cs",
               "RelativeToolTip": "StudentsAPI\\Controllers\\TblStudentsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAJgAAAAAAAAAAAAswIoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-30T11:38:09.793Z",
               "EditorCaption": ""

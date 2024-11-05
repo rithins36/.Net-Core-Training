@@ -9,41 +9,41 @@ namespace ExerciseAPI.Controllers
     [ApiController]
     public class ValuesController : ControllerBase
     {
-
-        public List<User> Users = new List<User>()
-        {
-            new User()
-            {
-                Id = "101",
-                Name = "Test",
-            }
-        };
-
+        private static List<User> _users=new List<User>();
 
         // GET: api/<ValuesController>
         [HttpGet]
-        public List<User> Get()
+        public ActionResult<IEnumerable<User>> Get()
         {
-            return Users;
+            return Ok(_users);
         }
 
         // GET api/<ValuesController>/5
         [HttpGet("{id}")]
-        public string Get(int id)
+        public IActionResult Get(string id)
         {
-            return "value";
+            var user = _users.FirstOrDefault(x => x.Id == id);
+            if ( user == null)
+            {
+                return NotFound();
+            }
+            return Ok(user);
         }
 
         // POST api/<ValuesController>
         [HttpPost]
-        public void Post([FromBody] string value)
+        public IActionResult Post([FromBody] User value)
         {
+            _users.Add(value);
+            return Ok();
         }
 
         // PUT api/<ValuesController>/5
         [HttpPut("{id}")]
-        public void Put(int id, [FromBody] string value)
+        public void Put(int id, [FromBody] User value)
         {
+
+
         }
 
         // DELETE api/<ValuesController>/5

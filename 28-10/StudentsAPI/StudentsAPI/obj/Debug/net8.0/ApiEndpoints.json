@@ -1,7 +1,7 @@
 [
   {
     "ContainingType": "StudentsAPI.Controllers.TblStudentsController",
-    "Method": "GetTblStudents",
+    "Method": "Get",
     "RelativePath": "api/TblStudents",
     "HttpMethod": "GET",
     "IsController": true,
@@ -21,33 +21,23 @@
   },
   {
     "ContainingType": "StudentsAPI.Controllers.TblStudentsController",
-    "Method": "PostTblStudent",
+    "Method": "PostStudents",
     "RelativePath": "api/TblStudents",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
     "Parameters": [
       {
-        "Name": "tblStudent",
+        "Name": "student",
         "Type": "StudentsAPI.Models.TblStudent",
         "IsRequired": true
       }
     ],
-    "ReturnTypes": [
-      {
-        "Type": "StudentsAPI.Models.TblStudent",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
-        "StatusCode": 200
-      }
-    ]
+    "ReturnTypes": []
   },
   {
     "ContainingType": "StudentsAPI.Controllers.TblStudentsController",
-    "Method": "GetTblStudent",
+    "Method": "GetById",
     "RelativePath": "api/TblStudents/{id}",
     "HttpMethod": "GET",
     "IsController": true,
@@ -59,21 +49,11 @@
         "IsRequired": true
       }
     ],
-    "ReturnTypes": [
-      {
-        "Type": "StudentsAPI.Models.TblStudent",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
-        "StatusCode": 200
-      }
-    ]
+    "ReturnTypes": []
   },
   {
     "ContainingType": "StudentsAPI.Controllers.TblStudentsController",
-    "Method": "PutTblStudent",
+    "Method": "UpdateStudent",
     "RelativePath": "api/TblStudents/{id}",
     "HttpMethod": "PUT",
     "IsController": true,
@@ -85,7 +65,7 @@
         "IsRequired": true
       },
       {
-        "Name": "tblStudent",
+        "Name": "student",
         "Type": "StudentsAPI.Models.TblStudent",
         "IsRequired": true
       }
@@ -94,7 +74,7 @@
   },
   {
     "ContainingType": "StudentsAPI.Controllers.TblStudentsController",
-    "Method": "DeleteTblStudent",
+    "Method": "Delete",
     "RelativePath": "api/TblStudents/{id}",
     "HttpMethod": "DELETE",
     "IsController": true,

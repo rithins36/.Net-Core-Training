@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Administrator\\Documents\\.Net-Core-Training\\17-10\\MicroServicesApplication\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{AA89D035-DDC1-458B-A499-0089C0915A0F}|AuthAPI\\AuthAPI.csproj|c:\\users\\administrator\\documents\\.net-core-training\\17-10\\microservicesapplication\\authapi\\controllers\\authapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA89D035-DDC1-458B-A499-0089C0915A0F}|AuthAPI\\AuthAPI.csproj|solutionrelative:authapi\\controllers\\authapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{AA89D035-DDC1-458B-A499-0089C0915A0F}|AuthAPI\\AuthAPI.csproj|c:\\users\\administrator\\documents\\.net-core-training\\17-10\\microservicesapplication\\authapi\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AA89D035-DDC1-458B-A499-0089C0915A0F}|AuthAPI\\AuthAPI.csproj|solutionrelative:authapi\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,10 +17,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{AA89D035-DDC1-458B-A499-0089C0915A0F}|AuthAPI\\AuthAPI.csproj|c:\\users\\administrator\\documents\\.net-core-training\\17-10\\microservicesapplication\\authapi\\services\\iservice\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AA89D035-DDC1-458B-A499-0089C0915A0F}|AuthAPI\\AuthAPI.csproj|solutionrelative:authapi\\services\\iservice\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AA89D035-DDC1-458B-A499-0089C0915A0F}|AuthAPI\\AuthAPI.csproj|c:\\users\\administrator\\documents\\.net-core-training\\17-10\\microservicesapplication\\authapi\\controllers\\authapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA89D035-DDC1-458B-A499-0089C0915A0F}|AuthAPI\\AuthAPI.csproj|solutionrelative:authapi\\controllers\\authapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AA89D035-DDC1-458B-A499-0089C0915A0F}|AuthAPI\\AuthAPI.csproj|c:\\users\\administrator\\documents\\.net-core-training\\17-10\\microservicesapplication\\authapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -45,30 +45,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "RegistrationRequestDto.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\.Net-Core-Training\\17-10\\MicroServicesApplication\\AuthAPI\\Models\\Dto\\RegistrationRequestDto.cs",
-              "RelativeDocumentMoniker": "AuthAPI\\Models\\Dto\\RegistrationRequestDto.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Documents\\.Net-Core-Training\\17-10\\MicroServicesApplication\\AuthAPI\\Models\\Dto\\RegistrationRequestDto.cs",
-              "RelativeToolTip": "AuthAPI\\Models\\Dto\\RegistrationRequestDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T05:10:55.721Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "AuthAPIController.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\.Net-Core-Training\\17-10\\MicroServicesApplication\\AuthAPI\\Controllers\\AuthAPIController.cs",
               "RelativeDocumentMoniker": "AuthAPI\\Controllers\\AuthAPIController.cs",
               "ToolTip": "C:\\Users\\Administrator\\Documents\\.Net-Core-Training\\17-10\\MicroServicesApplication\\AuthAPI\\Controllers\\AuthAPIController.cs",
               "RelativeToolTip": "AuthAPI\\Controllers\\AuthAPIController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-23T05:08:09.409Z",
               "EditorCaption": ""
@@ -76,6 +63,18 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "RegistrationRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\.Net-Core-Training\\17-10\\MicroServicesApplication\\AuthAPI\\Models\\Dto\\RegistrationRequestDto.cs",
+              "RelativeDocumentMoniker": "AuthAPI\\Models\\Dto\\RegistrationRequestDto.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\.Net-Core-Training\\17-10\\MicroServicesApplication\\AuthAPI\\Models\\Dto\\RegistrationRequestDto.cs",
+              "RelativeToolTip": "AuthAPI\\Models\\Dto\\RegistrationRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T05:10:55.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "IAuthService.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\.Net-Core-Training\\17-10\\MicroServicesApplication\\AuthAPI\\Services\\IService\\IAuthService.cs",
               "RelativeDocumentMoniker": "AuthAPI\\Services\\IService\\IAuthService.cs",
@@ -83,8 +82,7 @@
               "RelativeToolTip": "AuthAPI\\Services\\IService\\IAuthService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T04:54:31.83Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-23T04:54:31.83Z"
             },
             {
               "$type": "Document",
@@ -97,7 +95,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "AuthService.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\.Net-Core-Training\\17-10\\MicroServicesApplication\\AuthAPI\\Services\\AuthService.cs",
               "RelativeDocumentMoniker": "AuthAPI\\Services\\AuthService.cs",
@@ -105,8 +103,7 @@
               "RelativeToolTip": "AuthAPI\\Services\\AuthService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAFoAAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T03:55:27.393Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-23T03:55:27.393Z"
             },
             {
               "$type": "Document",
@@ -142,8 +139,7 @@
               "RelativeToolTip": "AuthAPI\\Program.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAgwBgAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T03:50:42.799Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-23T03:50:42.799Z"
             },
             {
               "$type": "Document",
